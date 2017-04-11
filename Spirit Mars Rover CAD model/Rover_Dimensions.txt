@@ -1,0 +1,9 @@
+Rover Base
+28.50" front wide
+60.50" long
+57.00" back width
+22.50" deep front cut
+10.00" high front cut
+8.00" diameter hole for top camera
+8.00" hole distance from front
+10.00" hole deep
